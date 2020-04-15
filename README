@@ -1,0 +1,22 @@
+matanhalfon, lioraryepaz
+===============================================================================
+Lior Paz, ID 206240996, lior.paz1@mail.huji.ac.il
+Matan Halfon, ID 205680648, matan.halfon@mail.huji.ac.il
+===============================================================================
+
+                           Project 6 - Assembler
+                           ---------------------
+  
+
+Submitted Files
+---------------
+README - This file.
+Makefile
+Assembler - script to run Main.py
+Main.py - main python file
+Parser.py - clean the assembly code
+
+
+Remarks
+-------
+* nice and easy, go python
